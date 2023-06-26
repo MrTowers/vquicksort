@@ -2,7 +2,7 @@
 
 ## Instalation
 ```bash
-    v install mrtowers.quicksort
+    v install MrTowers.quicksort
 ```
 
 ## Usage
@@ -17,4 +17,4 @@
 ```
 
 ## Contribution
-To contribute just use `v fmt . -w` before PR
+To contribute just use `v fmt -w .` before PR
