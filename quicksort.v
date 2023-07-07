@@ -50,7 +50,7 @@ fn swap[T](mut arr []T, idx T, idy T) {
 	arr[int(idx)], arr[int(idy)] = arr[int(idy)], arr[int(idx)]
 }
 
-//sorts an array in place without allocating new array
+//sorts an array in place
 pub fn in_place[T](mut arr []T) {
 	sort(mut arr, 0, arr.len - 1)
 }
