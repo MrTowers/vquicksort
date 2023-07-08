@@ -1,11 +1,11 @@
-# QuickSort algorithm in V lang
+## QuickSort algorithm in V
 
-## Instalation
+### Instalation
 ```bash
     v install MrTowers.quicksort
 ```
 
-## Usage
+### Usage
 ```v
     import mrtowers.quicksort as qs
 
@@ -16,5 +16,5 @@
     }
 ```
 
-## Contribution
+### Contribution
 To contribute just use `v fmt -w .` before PR
